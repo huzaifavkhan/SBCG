@@ -1,4 +1,4 @@
-# SBCG Website
+# SBCG - Strategic Business Consulting Group [sbcg.co](https://www.sbcg.co/)
 
 Marketing and services site for Strategic Business Consulting Group (SBCG). Built with Vite + React + TypeScript, Tailwind CSS, and shadcn/ui to showcase SBCG’s consulting, technology, and training offerings with rich service pages, news, and lead capture.
 
