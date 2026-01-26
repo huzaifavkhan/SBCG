@@ -26,7 +26,6 @@ const Clients = () => {
     { name: "HBL", logo: "/uploads/clients/bank-hbl.png" },
     { name: "Meezan Bank", logo: "/uploads/clients/bank-meezan.png" },
     { name: "NBP Funds", logo: "/uploads/clients/bank-nbp.png" },
-    { name: "Faysal Bank", logo: "/uploads/clients/faysal-bank.png" },
     { name: "MCB Bank", logo: "/uploads/clients/bank-mcb.png" },
     { name: "Bank Alfalah", logo: "/uploads/clients/bank-alfalah.png" },
     { name: "Alfalah Investments", logo: "/uploads/clients/alfalah-investment.png" },
