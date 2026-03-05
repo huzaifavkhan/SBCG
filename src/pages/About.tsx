@@ -366,7 +366,7 @@ const About = () => {
                       name: "Danyal Qasim",
                       role: "Investment Advisor",
                       bio: (<a 
-                              href="https://www.linkedin.com/in/danyalfkhan/" 
+                              href="https://www.linkedin.com/in/danyal-qasim-971530295/" 
                               target="_blank"
                               rel="noopener noreferrer"
                               className="flex items-center text-gray-700 hover:text-[#22b5f6] hover-opacity-80"
@@ -375,6 +375,12 @@ const About = () => {
                               LinkedIn Profile
                             </a>),
                       image: "/uploads/team/Danyal.jpg"
+                    },
+                    {
+                      name: "Manhoor Iqbal",
+                      role: "Advisor – Clinical & EHR Integrations",
+                      bio: "",
+                      image: "/uploads/team/Mahnoor.jpeg"
                     },
                     {
                       name: "Sohail Yaqoob",
