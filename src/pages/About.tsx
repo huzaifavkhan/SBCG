@@ -377,7 +377,7 @@ const About = () => {
                       image: "/uploads/team/Danyal.jpg"
                     },
                     {
-                      name: "Manhoor Iqbal",
+                      name: "Manhoor Iqbal MBBS",
                       role: "Advisor – Clinical & EHR Integrations",
                       bio: "",
                       image: "/uploads/team/Mahnoor.jpeg"
